@@ -8,9 +8,9 @@ The data set is provided per language pair. Each tab-delimited TXT file consists
 - English source	
 - Professional translation	
 - Student translation	
-- MT0 (Machine translation system #0)
-- MT1 (Machine translation system #1)
-- MT2 (Machine translation system #2)
+- MT0 (Machine translation system #0, specified per language pair)
+- MT1 (Machine translation system #1, specified per language pair)
+- MT2 (Machine translation system #2, specified per language pair)
 
 The details of the data set can be found in the study itself. 
 Please cite the following publication if you use this data set in your research:
