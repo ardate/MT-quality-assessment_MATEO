@@ -12,7 +12,8 @@ The data set is provided per language pair. Each comma-delimited CSV file consis
 - MT1 (Machine translation system #1)
 - MT2 (Machine translation system #2)
 
-Please read the study for the details on the data set.
+The details of the data set can be found in the study itself. 
+Please cite the following publication if you use this data set in your research:
 
 (Citation to be added after publication)
 
