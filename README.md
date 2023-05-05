@@ -1,6 +1,6 @@
 # MT-quality-assessment_MATEO
 
-This data repository contains the data sets used in the study titled " ... ". 
+This data repository contains the data sets used in the study titled "Adapting Machine Translation Education to the Neural Era: A Case Study of Quality Assessment Techniques". 
 
 The data set is provided per language pair. Each comma-delimited CSV file consists of the following fields:
 - Text Nunber (Text no.)	
