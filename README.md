@@ -2,7 +2,7 @@
 
 This data repository contains the data sets used in the study titled "Adapting Machine Translation Education to the Neural Era: A Case Study of Quality Assessment Techniques". 
 
-The data set is provided per language pair. Each tab-delimited TXT file consists of the following fields:
+The data set is provided per language pair. Each comma-delimited CSV file consists of the following fields:
 - Text Number (Text no.)	
 - Sentence Number (Sentence No.)
 - English source	
